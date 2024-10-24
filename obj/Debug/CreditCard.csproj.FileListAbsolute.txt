@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\CreditCard\CreditCard\bin\Debug\CreditCard.exe.config
+C:\Users\Dell\source\repos\CreditCard\CreditCard\bin\Debug\CreditCard.exe
+C:\Users\Dell\source\repos\CreditCard\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\Dell\source\repos\CreditCard\CreditCard\obj\Debug\CreditCard.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CreditCard\CreditCard\obj\Debug\CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CreditCard\CreditCard\obj\Debug\CreditCard.exe
+C:\Users\Dell\source\repos\CreditCard\CreditCard\obj\Debug\CreditCard.pdb
